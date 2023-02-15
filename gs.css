@@ -22,17 +22,41 @@
     font-size: small;
     color: rgb(18, 164, 116);
 }
+.IMP:hover
+{
+    text-shadow: 1px 1px;
+    color:red;
+    filter: blur(0.2px);
+    border-style: dotted;
+    border-left: 6px solid red;
+}
 .POOR
 {
     font-family: 'Times New Roman', Times, serif;
     font-size: smaller;
     color: rgb(228, 69, 69);
 }
+.POOR:hover
+{
+    text-shadow: 1px 1px;
+    color:rgb(20, 107, 139);
+    filter: blur(0.2px);
+    border-style: dotted;
+    border-left: 6px solid rgb(10, 95, 7);
+}
 .JUDGE
 {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: smaller;
-    color: rgb(56, 56, 188);
+    color: rgb(171, 16, 29);
+}
+.JUDGE:hover
+{
+    text-shadow: 1px 1px;
+    color:blue;
+    filter: blur(0.2px);
+    border-style: dotted;
+    border-left: 6px solid blue;
 }
 table{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
