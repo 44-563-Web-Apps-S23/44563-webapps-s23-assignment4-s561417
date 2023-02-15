@@ -72,3 +72,26 @@ th, td{
 tr:nth-child(even) {
     background-color: aliceblue;
 }
+
+ul.navbar-horizontal 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li 
+{
+    float:left; 
+    color:#000;
+    background-color: #8f77d3
+}
+ul.navbar-horizontal a 
+{
+    display:block;
+    padding:8px
+}
+ul.navbar-horizontal a:hover 
+{  
+    background-color: #784d12;
+    color:white;
+}
