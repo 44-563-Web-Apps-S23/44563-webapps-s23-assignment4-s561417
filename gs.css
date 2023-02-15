@@ -34,3 +34,17 @@
     font-size: smaller;
     color: rgb(56, 56, 188);
 }
+table{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:0cqi;
+    text-align: center;
+    border-collapse: collapse;
+}
+th, td{
+    border:1px solid #dddddd;
+    text-align: center;
+    padding:8px;
+}
+tr.nth-child(even){
+    background-color: aliceblue;
+}
