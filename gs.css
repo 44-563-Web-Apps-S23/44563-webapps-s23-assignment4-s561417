@@ -1,0 +1,36 @@
+.speech
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color:black;
+}
+.direction
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    color:black;
+    background-color: rgb(151, 193, 231);
+}
+.direction:hover
+{
+    background-color: antiquewhite;
+    color:brown;
+}
+.IMP
+{
+    font-family: 'Gill sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+    color: rgb(18, 164, 116);
+}
+.POOR
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: smaller;
+    color: rgb(228, 69, 69);
+}
+.JUDGE
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: smaller;
+    color: rgb(56, 56, 188);
+}
